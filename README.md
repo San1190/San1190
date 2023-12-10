@@ -6,9 +6,9 @@ Soy un estudiante de Ingeniería Informática apasionado por el arte de la progr
 - 🌱 Mi sed constante de conocimiento me lleva a aprender y afrontar nuevos desafíos de manera continua.
 - 💬 Estoy aquí para responder tus preguntas sobre desarrollo de software, programación en Python o cualquier otro tema que te intrigue.
 - 📫 Puedes encontrarme en [GitHub](https://github.com/san1190) y [LinkedIn](https://www.linkedin.com/in/santiago-fuentes-albuixech-375b66267/).
-- ⚡ Dato curioso: ¡Soy un apasionado del desarrollo web y disfruto creando bots para Discord! Además, ¡me encanta experimentar con colores vibrantes y explorar nuevas posibilidades!
+- ⚡ Dato curioso: No me gustan los datos curiosos
 
-### Lenguajes y Tecnologías
+### Lenguajes que domino
 
 [![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
