@@ -6,7 +6,7 @@ Soy un estudiante de Ingeniería Informática apasionado por el arte de la progr
 - 🌱 Mi sed constante de conocimiento me lleva a aprender y afrontar nuevos desafíos de manera continua.
 - 💬 Estoy aquí para responder tus preguntas sobre desarrollo de software, programación en Python o cualquier otro tema que te intrigue.
 - 📫 Puedes encontrarme en [GitHub](https://github.com/san1190) y [LinkedIn](https://www.linkedin.com/in/santiago-fuentes-albuixech-375b66267/).
-- ⚡ Dato curioso: No me gustan los datos curiosos
+- ⚡ Dato curioso: me gustan los datos curiosos
 
 ### Lenguajes que domino
 
