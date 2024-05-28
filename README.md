@@ -33,6 +33,9 @@ Soy un estudiante de Ingeniería Informática apasionado por el arte de la progr
 
 ![Lenguajes más Utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=San1190&layout=compact&theme=merko)
 
+ ## CodeWars :)
+ [![Codewars](https://www.codewars.com/users/San1190/badges/large)](https://www.codewars.com/users/San1190)
+
 
 
 
