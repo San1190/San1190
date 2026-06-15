@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hola%20Mundo!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Soy%20Santiago%20Fuentes%20Albuixech&descAlignY=51&descAlign=62" width="100%"/>
 </div>
 
-### <div align="center">👨‍💻 Ingeniero de Software en Formación | 4º Curso 🎓</div>
+### <div align="center">👨‍💻 Ingeniero de Software </div>
 
 <div align="center">
   
@@ -22,7 +22,7 @@
 
 ### 🚀 Sobre mí
 
-¡Hola! Soy **Santiago**, actualmente cursando el **4º año de Ingeniería Informática** con especialización en **Ingeniería del Software**. Mi evolución académica y personal me ha llevado a apasionarme por la arquitectura de software limpia, las metodologías ágiles y el desarrollo Full Stack.
+¡Hola! Soy **Santiago**, he finalizado los estudios de **Ingeniería Informática** con especialización en **Ingeniería del Software**. Mi evolución académica y personal me ha llevado a apasionarme por la arquitectura de software limpia, las metodologías ágiles y el desarrollo Full Stack.
 
 - 🔭 **Actualmente trabajando en:** Arquitecturas robustas con **Spring Boot** y SPAs modernas con **Angular 17+** y **React**.
 - 📐 **Metodologías:** Me muevo cómodamente en entornos **Agile/Scrum**.
